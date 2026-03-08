@@ -20,6 +20,16 @@ Working with Python, SQL, and Power BI to analyze data and build meaningful insi
 <img src="https://cdn3d.iconscout.com/3d/premium/thumb/microsoft-power-bi-3d-icon-png-download-8500319.png?f=webp" alt="power bi" width="40" height="40"/>&nbsp;
 <img src="https://i.pinimg.com/1200x/bd/b6/ab/bdb6abe62ffe8ac78bff9ae3fb552b5e.jpg" alt="excel" width="40" height="40"/>&nbsp;
 </p>
+<h2>💼 Featured Projects</h2>
+## 🥇 Certifications & Badges
 
+<table align="center">
 
+<table align="center">
+<tr>
+<td align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryandwivedi486-max&theme=default" alt="GitHub Streak" />
+<h2>🐍 System Processes</h2>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AnkitShukla-arch/AnkitShukla-arch/output/github-contribution-grid-snake-dark.svg" width="850">
+</p>
