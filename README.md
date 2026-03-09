@@ -96,10 +96,17 @@
 <!-- Add your certifications and badges here -->
 <table align="center">
 
+## 🎯 What I'm Looking For
+
+- Entry-level **Data Analyst** roles  
+- **Data Analytics / Business Analytics internships**  
+- Opportunities to work with **Python, SQL, Power BI, and Data Visualization**  
+- Real-world projects where I can apply **data-driven decision making**
+
 <table align="center">
 <tr>
 <td align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aryandwivedi486-max&theme=default" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aryandwivedi486-max&theme=default" alt="GitHub Streak" /> 
 <h2>🐍 System Processes</h2>
 <p align="center">
   <img src="https://raw.githubusercontent.com/AnkitShukla-arch/AnkitShukla-arch/output/github-contribution-grid-snake-dark.svg" width="850">
