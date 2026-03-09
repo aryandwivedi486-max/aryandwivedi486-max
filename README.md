@@ -53,7 +53,46 @@
 <!-- Add your Projects here -->
 
 <h2 align="left">🥇 Certifications & Badges</h2>
+<table>
+<tr>
 
+<td align="center">
+<a href="Python Certification Part-1.pdf">
+<img src="infosys_python_part1.png" width="250">
+</a><br>
+<b>Infosys Python Part 1</b>
+</td>
+
+<td align="center">
+<a href="Python Certification Part-2.pdf">
+<img src="infosys_python_part2.png" width="250">
+</a><br>
+<b>Infosys Python Part 2</b>
+</td>
+
+<td align="center">
+<a href="Deloitte Data Analytics Certificate.pdf">
+<img src="deloitte_data_analytics.png" width="250">
+</a><br>
+<b>Deloitte Data Analytics</b>
+</td>
+
+<td align="center">
+<a href="TCS ION Ai Certtificate.pdf">
+<img src="certificatestcs_yuva_ai.png.png" width="250">
+</a><br>
+<b>TCS Yuva AI</b>
+</td>
+
+<td align="center">
+<a href="Be10XCertificate.pdf">
+<img src="certificatesbe10x_ai_workshop.png" width="250">
+</a><br>
+<b>AI Tools Workshop</b>
+</td>
+
+</tr>
+</table>
 <!-- Add your certifications and badges here -->
 <table align="center">
 
