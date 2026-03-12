@@ -50,7 +50,7 @@
 <img src="https://i.pinimg.com/1200x/bd/b6/ab/bdb6abe62ffe8ac78bff9ae3fb552b5e.jpg" alt="excel" width="40" height="40"/>&nbsp;
 </p>
 <h2>💼 Featured Projects</h2>
-📊 Cofee Sales Analysis Dashboard Project
+📊 Coffee Sales Analysis Dashboard Project
 - Built using Excel, Power Query, Data Model
 - Sales dashboard with KPI, charts, and reports.
 <br>
