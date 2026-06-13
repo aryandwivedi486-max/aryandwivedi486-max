@@ -48,6 +48,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>&nbsp;
 <img src="https://cdn3d.iconscout.com/3d/premium/thumb/microsoft-power-bi-3d-icon-png-download-8500319.png?f=webp" alt="power bi" width="40" height="40"/>&nbsp;
 <img src="https://i.pinimg.com/1200x/bd/b6/ab/bdb6abe62ffe8ac78bff9ae3fb552b5e.jpg" alt="excel" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/>&nbsp;
 </p>
 <h2>💼 Featured Projects</h2>
 📊 Coffee Sales Analysis Dashboard Project
