@@ -62,9 +62,9 @@ https://github.com/aryandwivedi486-max/Coffee-Shop-Sales
 <!-- Add your Projects here -->
 
 <h2 align="left">🥇 Certifications & Badges</h2>
+
 <table>
 <tr>
-
 <td align="center">
 <a href="Python Certification Part-1.pdf">
 <img src="infosys_python_part1.png" width="250">
@@ -91,6 +91,28 @@ https://github.com/aryandwivedi486-max/Coffee-Shop-Sales
 <img src="certificatestcs_yuva_ai.png.png" width="250">
 </a><br>
 <b>TCS Yuva AI</b>
+</td>
+</tr>
+
+<td align="center">
+<a href="IBM Badge.pdf">
+<img src="IBM Data Analysis.png" width="250">
+</a><br>
+<b>Data Analysis Using Python</b>
+</td>
+</tr>
+</table>
+
+<h2 align="left">🏆 Achievements & Participation</h2>
+
+<table>
+<tr>
+
+<td align="center">
+<a href="Flutter ParticipationCertificate.pdf">
+<img src="Flutter Certificate.png" width="250">
+</a><br>
+<b>Flutter 8-Hour Tech Conference Participation</b>
 </td>
 
 <td align="center">
