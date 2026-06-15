@@ -51,14 +51,39 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>&nbsp;
 <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/>&nbsp;
 </p>
-<h2>💼 Featured Projects</h2>
-📊 Coffee Sales Analysis Dashboard Project
-- Built using Excel, Power Query, Data Model
-- Sales dashboard with KPI, charts, and reports.
-<br>
-🔗 Repository Link: 
-<br>
-https://github.com/aryandwivedi486-max/Coffee-Shop-Sales
+<h2 align="left">💼 Featured Projects</h2>
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 📊 Zepto Sales Analysis Dashboard
+
+Power BI dashboard analyzing Zepto's sales performance, customer ratings, outlet efficiency, and product trends.
+
+**Tech Stack:**  
+Power BI • Excel • Data Analysis • Data Visualization
+
+🔗 <a href="https://github.com/aryandwivedi486-max/Zepto_Sales_Analysis_Project">Repository</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### ☕ Coffee Sales Analysis Dashboard
+
+Interactive sales dashboard built using Excel, Power Query, and Data Model to analyze sales performance and business KPIs.
+
+**Tech Stack:**  
+Excel • Power Query • Data Model • Dashboarding
+
+🔗 <a href="https://github.com/aryandwivedi486-max/Coffee-Shop-Sales">Repository</a>
+
+</td>
+
+</tr>
+</table>
 <!-- Add your Projects here -->
 
 <h2 align="left">🥇 Certifications & Badges</h2>
