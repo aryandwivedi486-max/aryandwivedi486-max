@@ -83,6 +83,31 @@ Excel • Power Query • Data Model • Dashboarding
 </td>
 
 </tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🔍 GitHub Profile Analyzer
+
+A Python-based project that leverages the GitHub REST API to fetch and analyze public GitHub profile data. It provides insights into repositories, followers, following count, account details, and user activity through a simple and structured interface.
+
+**Tech Stack:**  
+Python • REST API • Requests • JSON
+
+🔗 <a href="https://github.com/aryandwivedi486-max/Github_Profile_Analyzer">Repository</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🚀 More Projects Coming Soon
+
+Currently working on Data Analytics, Python, SQL, AWS, and Data Engineering projects.
+
+</td>
+
+</tr>
 </table>
 <!-- Add your Projects here -->
 
